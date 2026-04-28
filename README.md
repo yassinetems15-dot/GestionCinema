@@ -3,7 +3,9 @@
 ## 📌 Description
 Ce projet est une application orientée objet développée en Java permettant de gérer un cinéma.  
 Il permet de manipuler des films, des salles et des séances, ainsi que de gérer les ventes de places.
-
+Le projet contient deux versions :
+- Main.java : version console
+- MainApp.java : version JavaFX connectée à PostgreSQL
 ---
 
 ## 🎯 Objectifs du projet
