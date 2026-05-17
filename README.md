@@ -1,6 +1,6 @@
-# 🎬 Gestion d’un Cinéma - Java
+# Gestion d’un Cinéma - Java
 
-## 📌 Description
+## Description
 Ce projet est une application orientée objet développée en Java permettant de gérer un cinéma.  
 Il permet de manipuler des films, des salles et des séances, ainsi que de gérer les ventes de places.
 Le projet contient deux versions :
@@ -8,7 +8,7 @@ Le projet contient deux versions :
 - MainApp.java : version JavaFX connectée à PostgreSQL
 ---
 
-## 🎯 Objectifs du projet
+## Objectifs du projet
 - Appliquer les concepts de la programmation orientée objet (POO)
 - Utiliser les exceptions personnalisées en Java
 - Gérer des collections d’objets (List)
@@ -18,15 +18,15 @@ Le projet contient deux versions :
 
 ---
 
-## ⚙️ Fonctionnalités
+## Fonctionnalités
 
-### 👤 Utilisateur
+### Utilisateur
 - Consulter un film par titre
 - Rechercher des films par mot-clé
 - Consulter les séances disponibles
 - Acheter une place
 
-### 🧑‍💼 Vendeur
+### Vendeur
 - Vendre plusieurs places pour une séance
 
 ### 👨‍💻 Administrateur
@@ -40,7 +40,7 @@ Le projet contient deux versions :
 
 ---
 
-## 🧱 Structure du projet
+## Structure du projet
 
 - `Film` : représente un film
 - `Salle` (abstraite) : représente une salle
@@ -54,7 +54,7 @@ Le projet contient deux versions :
 
 ---
 
-## ⚠️ Gestion des exceptions
+## Gestion des exceptions
 Le projet utilise des exceptions personnalisées :
 - `FilmIntrouvableException`
 - `SalleIntrouvableException`
@@ -64,5 +64,5 @@ Le projet utilise des exceptions personnalisées :
 
 ---
 
-## 📂 Fichier utilisé
+## Fichier utilisé
 Le fichier `cinema.txt` contient les films sous la forme : titre;realisateur
